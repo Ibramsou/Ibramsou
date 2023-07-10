@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="225" src="https://github.com/Ibramsou/Ibamsou/assets/62890758/a7678ec6-88ce-45f2-beb6-6f48a5f01db5"/>
+  <img height="150" src="https://github.com/Ibramsou/Ibamsou/assets/62890758/a7678ec6-88ce-45f2-beb6-6f48a5f01db5"/>
 </div>
 
 ###
