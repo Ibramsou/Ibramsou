@@ -13,7 +13,9 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- ❤️ Love Minecraft development
+- 💯 Experienced minecraft developer
+
+- 🤖 Discord bot developer (JDA)
 
 - 🧠 A wide knowledge about Spigot & BungeeCord
 
