@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Java developer since 6 years</h3>
 
 ### 🤵 About me
-- 🏛️ I’m currently working on [Hyping](https://hyping.fr)
+- 🏛️ I’m currently working on [Hyping](https://hyping.fr) and [Candor Services](https://discord.gg/CandorServices)
 
 - 🌱 I’m currently learning **Web Development**
 
