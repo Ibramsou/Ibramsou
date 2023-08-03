@@ -15,6 +15,8 @@
 
 - 💯 Experienced minecraft developer
 
+- 📫 How to reach me braimsou@gmail.com
+
 - 🤖 Discord bot developer (JDA)
 
 - 🧠 A wide knowledge about Spigot & BungeeCord
