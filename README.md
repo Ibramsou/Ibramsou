@@ -15,7 +15,7 @@
 
 - 💯 Experienced minecraft developer
 
-- 📫 How to reach me braimsou@hotmail.com
+- 📹 See more of my work on my [Youtube Channel](https://www.youtube.com/@ibramsou4121)
 
 - 🤖 Discord bot developer (JDA)
 
