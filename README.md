@@ -17,7 +17,7 @@
 
 - 📹 See more of my work on my [Youtube Channel](https://www.youtube.com/@ibramsou4121)
 
-- 🤖 Discord bot developer (JDA)
+- 🤖 Discord bot developer (JDA & JavaCord)
 
 - 🧠 A wide knowledge about Spigot & BungeeCord
 
