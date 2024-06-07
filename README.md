@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Java developer since 7 years</h3>
 
 ### 🤵 About me
-- 👑 I'm the owner of [Skylodia](https://skylodia.fr)
+- 👑 I'm the owner of [Skylodia](https://skylodia.fr) and [Ibrazing](https://discord.gg/Ibrazing)
 
 - 🏛️ I’m currently working for [SkySword](https://skysword.fr), [Hyping](https://hyping.fr), [HypeNetwork](https://hypenetwork.fr)
 
