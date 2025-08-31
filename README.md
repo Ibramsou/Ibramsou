@@ -6,18 +6,16 @@
 
 <h1 align="center">Hi, I'm Bramsou 👋</h1>
 
-<h3 align="center">A passionate Java developer since 7 years</h3>
+<h3 align="center">A passionate Java developer since 9 years</h3>
 
 ### 🤵 About me
-- 👑 I'm the owner of [Skylodia](https://skylodia.fr) and [Ibrazing](https://discord.gg/Ibrazing)
-
-- 🏛️ I’m currently working for [SkySword](https://skysword.fr), [Hyping](https://hyping.fr), [HypeNetwork](https://hypenetwork.fr)
+- 🏛️ I’m currently working for [Foxcraft](https://mc.foxcraft.net)
 
 - 🌱 I’m currently learning **Web Development**
 
 - 💯 Experienced minecraft developer
 
-- 📹 See more of my work on my [Youtube Channel](https://www.youtube.com/@ibramsou4121)
+- 📹 See more of my work on my [Portfolio](https://www.imrine.xyz)
 
 - 🤖 Discord bot developer (JDA & JavaCord)
 
