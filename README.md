@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Java developer since 9 years</h3>
 
 ### 🤵 About me
-- 🏛️ I’m currently working for [Foxcraft](https://mc.foxcraft.net)
+- 🏛️ I’m currently working for [Foxcraft](https://mcfoxcraft.com)
 
 - 🌱 I’m currently learning **Web Development**
 
